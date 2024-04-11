@@ -4,7 +4,9 @@ A project that makes a data analysis and creates a model for classification of c
 
 ## Dataset Information
 
-![Cardiovascular System](https://github.com/LuisNagano/cardiovascular_disease_prediction/blob/main/coracao-de-atleta-868.jpg)
+<p align="center">
+  <img src="https://github.com/LuisNagano/cardiovascular_disease_prediction/blob/main/coracao-de-atleta-868.jpg" width="50%" alt="Cardiovascular System" />
+</p>
 
 This dataset was published on the Kaggle competition platform. For more information it can be seen accessing [this link](url-para-o-dataset-no-kaggle-aqui). However the context was created by author of the site [Be a Data Scientist](url-para-be-a-data-scientist-aqui).
 
@@ -35,3 +37,40 @@ The price of the diagnosis, paid by the client, varies according to the precisio
 ## Objective
 
 Your objective as the Data Scientist hired by Cardio Catch Diseases is to create a tool that increases the accuracy of the diagnosis and that this accuracy is stable for all diagnoses.
+
+## Methodology
+
+This project will be based on Cross-industry standard process for data mining (CRISP-DM). A standard idea about data science project may be linear: data preparation, modeling, evaluation and deployment. However, when we use CRISP-DM methodology a data science project become circle-like form. Even when it ends in Deployment, the project can restart again by Business Understanding. How might it help?
+
+<p align="center">
+  <img src="https://github.com/LuisNagano/cardiovascular_disease_prediction/blob/main/1024px-CRISP-DM_Process_Diagram.png" width="50%" alt="CRISP-DM Process" />
+</p>
+
+It may help to avoid the data scientist to stop in one specific step and waste time on it. When all the project is completed the data scientist can return to initial step and do every step again. Therefore, the main goal it is to follow circles as it needs.
+
+## Pipeline
+
+- Opening
+- Data Descriptions
+- Feature Engineering
+- Data Exploration
+- Filtering Variables
+- Exploratory Data Analysis
+- Data Preparation
+- Feature Selection
+- Machine Learning Modeling
+- Hyperparameter Fine Tuning
+- Traduction and Error's Interpretation
+- Deploy
+
+## References
+
+- [Be a Data Scientist](#)
+- [Cardiovascular Disease Dataset](#)
+- [Image Reference](#)
+- [CRISP-DM Image](#)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
