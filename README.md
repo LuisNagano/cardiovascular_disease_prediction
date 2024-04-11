@@ -4,7 +4,7 @@ A project that makes a data analysis and creates a model for classification of c
 
 ## Dataset Information
 
-![Cardiovascular System](https://s3.saeast-1.amazonaws.com/static.activodeporte.com/brasil/uploads/2019/08/11175741/coracao-de-atleta-868.jpg)
+![Cardiovascular System](https://github.com/LuisNagano/cardiovascular_disease_prediction/blob/main/coracao-de-atleta-868.jpg)
 
 This dataset was published on the Kaggle competition platform. For more information it can be seen accessing [this link](url-para-o-dataset-no-kaggle-aqui). However the context was created by author of the site [Be a Data Scientist](url-para-be-a-data-scientist-aqui).
 
