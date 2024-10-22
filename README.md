@@ -69,8 +69,3 @@ It may help to avoid the data scientist to stop in one specific step and waste t
 - [Cardiovascular Disease Dataset](#)
 - [Image Reference](#)
 - [CRISP-DM Image](#)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
