@@ -1,7 +1,3 @@
-Here is a more complete and professional version of the README in English, incorporating code snippets and details from your project:
-
----
-
 # Cardiovascular Disease Prediction
 
 This project focuses on building a machine learning pipeline to predict the risk of cardiovascular diseases (CVD) using various classification algorithms. The goal is to improve the accuracy of early diagnosis and assist medical professionals in identifying at-risk patients more effectively.
